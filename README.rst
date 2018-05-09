@@ -2,6 +2,7 @@
 FlashText
 =========
 AC Aho-Corasick 算法参见：https://lzw.me/a/1274.html
+
 .. image:: https://api.travis-ci.org/vi3k6i5/flashtext.svg?branch=master
    :target: https://travis-ci.org/vi3k6i5/flashtext
    :alt: Build Status
